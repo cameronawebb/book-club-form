@@ -41,10 +41,10 @@ button{
 
 .error{
 	display: block;
-	color: #f33;
+	color: #FF3333;
 }
 
 .input-error {
-	border: 3px solid #f33;	
+	border: 3px solid #FF3333;	
 }
 
