@@ -26,6 +26,10 @@ textarea {
 	font-size: 1rem;
 }
 
+.input-placeholder {
+	color: #D3171A;	
+}
+
 input + label {
 	display: inline;
 }
@@ -45,6 +49,6 @@ button{
 }
 
 .input-error {
-	border: 3px solid #f33;	
+	color: #BD181A;	
 }
 
