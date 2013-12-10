@@ -37,18 +37,20 @@ input + label {
 button{
 	padding: 0.5em;
 	font-size: 1.125rem;
-	background-image: linear-gradient(to bottom, #00f, #66e;
 	color: #E2181C;
-	border-radius: 8px;
+	border-radius: 2px;
 	cursor: pointer;	
 }
 
 .error{
 	display: block;
-	color: #f33;
+	color: #F62688;
+	font-color: #F62688;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
 }
 
 .input-error {
-	color: #BD181A;	
+	color: #CC1216;
+	border: 2px solid #B01316;	
 }
 
